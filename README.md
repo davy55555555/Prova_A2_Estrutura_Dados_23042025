@@ -1,6 +1,6 @@
 # Prova A2 de Estrutura de Dados - 23/04/2025
-**Nome:** Lucas Dórea  
-**RGM:** 37277782
+**Nome:** Deivid Cerqueira 
+**RGM:** 39670953
 
 ## Índice
 - [Questões Objetivas](#parte-1-questões-objetivas) (neste arquivo)
